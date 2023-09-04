@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hemant sah</h1>
-<h3 align="center">A passionate web developer and open source enthusiast from India</h3>
+# Hi, I'm Hemant Sah! 👋
+
+## 🚀 About Me
+A passionate full stack web developer and open source enthusiast from India.
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahemant12&label=Profile%20views&color=0e75b6&style=flat" alt="sahemant12" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hemantsah2912" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hemantsah2912?logo=twitter&style=for-the-badge" alt="https://twitter.com/hemantsah2912" /></a> </p>
+## 🔗 Links
+[![my_portfolio](https://img.shields.io/badge/working_on_it-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/hemant-sah-7431a6229/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-sah-7431a6229/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hemantsah2912)
+[![Github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sahemant12)
 
 
 <h3 align="left">Languages and Tools:</h3>
